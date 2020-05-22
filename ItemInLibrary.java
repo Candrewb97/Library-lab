@@ -1,0 +1,3 @@
+public class ItemInLibrary {
+    GENERALBOOK, REFERENCEBOOK, MAGAZINE, NEWSPAPER;
+}
